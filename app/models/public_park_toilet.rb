@@ -1,5 +1,3 @@
-
-
 class PublicParkToilet < ActiveRecord::Base
   # Remember to create a migration!
 
